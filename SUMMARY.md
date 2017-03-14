@@ -6,4 +6,5 @@
   * [Toolbox](okno/toolbox.md)
 * [Блоки контента](bloki-kontenta.md)
 * [Заголовки](zagolovki.md)
+* [Элементы](elementi.md)
 

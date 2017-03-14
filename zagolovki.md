@@ -2,8 +2,6 @@
 
 ### .h3
 
-_font-size: 24_
-
 ![](/assets/h3.jpg)
 
 ```

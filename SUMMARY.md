@@ -1,5 +1,6 @@
 # Summary
 
 * [Начало](README.md)
-* 1. Окно
+* [Окно](okno.md)
+  * [Вкладки](okno/tabi.md)
 

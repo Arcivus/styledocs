@@ -2,7 +2,7 @@
 
 ### .tabs
 
-![](/assets/табы.jpg)
+![](/assets/tabs.jpg)
 
 ```
 <div class="tabs">

@@ -12,4 +12,5 @@
 * [Элементы](elementi.md)
   * [Инпут с заголовком](elementi/input-s-zagolovkom.md)
   * [Селект тэгов](elementi/selekt-tegov.md)
+* [Цвета](tsveta.md)
 

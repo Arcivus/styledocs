@@ -16,14 +16,14 @@
 
 ## Разворачиваемый блок
 
-### .read\_\_more.read\_\_more\_\_show
+### .read\_\_more
 
 Блок который по умолчанию свёрнут, при клике на "дополнительные настройки" разворачивается/сворачивается обратно.
 
 ![](/assets/dropdown.jpg)
 
 ```
-<div class="read__more read__more__show">
+<div class="read__more">
     <div class="read__more__container">
         <---КОНТЕНТ--->
     </div>

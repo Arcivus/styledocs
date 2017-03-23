@@ -1,5 +1,4 @@
 ```
-$t_gray_empty: #dddddd;
 $t_toast_green: #51a351;
 $t_toast_red: #bd362f;
 $t_toast_blue: #2f96b4;

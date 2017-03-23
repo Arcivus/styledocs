@@ -14,4 +14,5 @@
   * [Селект тэгов](elementi/selekt-tegov.md)
 * [Цвета](tsveta.md)
   * [Основные](tsveta/osnovnie.md)
+  * [50 оттенков серого](tsveta/50-ottenkov-serogo.md)
 

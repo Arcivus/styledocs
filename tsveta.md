@@ -7,7 +7,6 @@ $c_bg_tial: #cee7e9;
 
 $c_red_close: #bf4027;
 
-$c_text_grey: #636363;
 $c_pale_grey: #d0d0d0;
 $c_light_grey: #e4e4e4;
 $c_border_dark_grey: #ababab;

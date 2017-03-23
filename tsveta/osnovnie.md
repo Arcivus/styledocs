@@ -42,23 +42,13 @@
 
 ## $c\_light\_grey: \#e4e4e4
 
-Использовано 1 раз, как фон класса .no-data-error, на сайте не нашел
+Использовано 1 раз, как фон класса .no-data-error
 
-![](/assets/c_8.png)
-
-
+![](/assets/nde.png)
 
 ## $c\_border\_dark\_grey: \#ababab
 
 использовано в 2 бордерах
 
 ![](/assets/c_9.png)
-
-
-
-
-
-
-
-
 

@@ -5,7 +5,6 @@ $t_toast_blue: #2f96b4;
 $t_toast_orange: #f89406;
 $t_almost_white: #eeeeee;
 $t_almost_white_inputs: #fafafa;
-$t_almost_white_disabled: #efefef;
 $t_red_error: #b7524d;
 $t_red_runtime: #d14c40;
 $t_blue_runtime: #6290ff;

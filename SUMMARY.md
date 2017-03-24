@@ -15,4 +15,5 @@
 * [Цвета](tsveta.md)
   * [Основные](tsveta/osnovnie.md)
   * [50 оттенков серого](tsveta/50-ottenkov-serogo.md)
+  * [Остальные](tsveta/ostalnie.md)
 

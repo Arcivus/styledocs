@@ -45,15 +45,25 @@
 
 ![](/assets/g_7.png)
 
-
-
 ## $t\_gray\_empty: \#dddddd
 
 1 фон блока "пусто", на данный момент на сайте нигде не используется
 
 ![](/assets/g_last.png)
 
+## $t\_almost\_white\_inputs: \#fafafa
 
+Использовано в 2 местах, фон селектов, инпуктов, текстарей
+
+![](/assets/g_inputs.png)
+
+
+
+## $t\_almost\_white: \#eeeeee
+
+Использовано в одном фоне
+
+![](/assets/g_tabs.png)
 
 
 

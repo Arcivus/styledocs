@@ -4,6 +4,7 @@
 * [Окно](okno.md)
   * [Вкладки](okno/tabi.md)
   * [Toolbox](okno/toolbox.md)
+  * [Базовый контейнер](okno/bazovii-konteiner.md)
 * [Блоки контента](bloki-kontenta.md)
   * [Лейбл-блок](bloki-kontenta/leibl-blok.md)
   * [Блок-элемент](bloki-kontenta/blok-element.md)

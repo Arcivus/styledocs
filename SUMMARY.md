@@ -8,6 +8,7 @@
   * [Лейбл-блок](bloki-kontenta/leibl-blok.md)
   * [Блок-элемент](bloki-kontenta/blok-element.md)
   * [Контейнер группы](bloki-kontenta/konteiner-gruppi.md)
+  * [Список ссылок](bloki-kontenta/spisok-ssilok.md)
 * [Заголовки](zagolovki.md)
 * [Элементы](elementi.md)
   * [Инпут с заголовком](elementi/input-s-zagolovkom.md)

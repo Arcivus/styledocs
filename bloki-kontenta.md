@@ -25,9 +25,12 @@
 ```
 <div class="read__more">
     <div class="read__more__container">
-        <---КОНТЕНТ--->
+        <div class="read__more__content">
+            <---КОНТЕНТ--->
+        </div
     </div>
-    <a href="" class="read__more__active">{{ "дополнительные настройки"|i18n }}</a>
+    <a href="" class="read__more__active show-closed">{{"Дополнительные настройки"|i18n}}</a>
+    <a href="" class="read__more__active show-open">{{"Свернуть"|i18n}}</a>
 </div>
 ```
 

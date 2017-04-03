@@ -39,5 +39,24 @@
 </ul>
 ```
 
+### .align-vertical
+
+Если требуется выравнять контент строки по вертикали то этот класс следует добавить к .table\_\_input_\_\__label 
+
+```
+<li class="table__input__item">
+    <label class="table__input__label align-vertical">
+        <span class="label__text">Название движка</span>
+        <input name="title">
+    </label>
+</li>
+```
+
+![](/assets/center.jpg)
+
+
+
+
+
 
 

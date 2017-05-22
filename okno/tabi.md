@@ -6,11 +6,13 @@
 
 ```
 <div class="tabs">
-    <ul class="tabs__controls">
-        <li class="tabs__controls__item active">Настройки</li>
-        <li class="tabs__controls__item">Содержание</li>
+    <div class="tabs__controls__wrapper">
+        <ul class="tabs__controls">
+            <li class="tabs__controls__item active">Настройки</li>
+            <li class="tabs__controls__item">Содержание</li>
 
-    </ul>
+        </ul>
+    </div>
     <div class="tabs__pages">
         <div class="tabs__pages__item active">
             <div class="tabs__pages__item__content">
